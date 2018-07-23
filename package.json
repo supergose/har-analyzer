@@ -1,0 +1,11 @@
+{
+  "name": "har-analyzer",
+  "version": "0.0.1",
+  "description": "A tool for analyze HAR export from Chrome",
+  "main": "index.js",
+  "author": "Marcello Tosetti",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
